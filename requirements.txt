@@ -1,0 +1,40 @@
+semantic-kernel>=0.9.0
+pyautogen>=0.2.0
+openai>=1.0.0
+azure-identity>=1.12.0
+azure-core>=1.29.0
+azure-ai-formrecognizer>=3.3.0
+gradio>=3.50.0
+transformers>=4.30.0
+torch>=2.0.0
+pillow>=9.5.0
+numpy>=1.24.0
+python-dotenv>=0.19.0
+opencv-python>=4.8.0 
+beautifulsoup4
+selenium
+pandas>=1.5.0
+autogen>=0.2.0
+autogen-agentchat>=0.2.0
+
+
+# azure-identity
+# openai
+# python-dotenv
+# semantic-kernel
+# azure-ai-inference
+pydantic
+rich
+dotenv-azd
+aiohttp
+autogen-ext[openai]
+azure-ai-inference==1.0.0b9
+openai-agents
+langgraph
+langchain_openai
+pydantic-ai
+llama-index
+llama-index-llms-azure-openai
+llama-index-llms-openai-like
+llama-index-embeddings-azure-openai
+smolagents
